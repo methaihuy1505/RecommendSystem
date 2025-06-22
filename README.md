@@ -21,7 +21,6 @@ Nghiên cứu này nhằm giải quyết khó khăn trong việc lựa chọn gi
   - Gửi phản hồi
 - **Công nghệ sử dụng:**
   - Web: HTML, CSS, ReactJS
-  - Mobile: React Native
 
 ---
 
